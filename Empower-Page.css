@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-page-content {
+    padding: 10px;
+}
+
+.home-page-heading {
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 500;
+    padding: 8px;
+}
+
+.home-page-paragraph {
+    color: white;
+    font-size: 17px;
+    font-family: Roboto;
+    padding: 10px;
+    font-weight: 400;
+}
+
+.home-page-image-container {
+    background-color: white;
+    height: 110px;
+    width: 160px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.home-page-image-content {
+    text-align: center;
+    padding: 10px;
+}
+
+.home-page-image-details {
+    height: 70px;
+    width: 70px;
+}
+
+.home-page-image-details-heading {
+    color: #225db0;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.technology-card {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.technology-image-content {
+    text-align: center;
+    padding: 8px;
+}
+
+.technology-card-heading {
+    color: white;
+    font-size: 35px;
+    font-family: Roboto;
+    padding: 8px;
+}
+
+.technology-content-description {
+    margin: 10px;
+}
+
+.unorder-list-items {
+    color: white;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.list-item {
+    margin: 8px;
+}
+
+.button {
+    color: white;
+    font-size: 10px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    background-color: #225db0;
+}
+
+.science-card {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.science-image-content {
+    text-align: center;
+    padding: 8px;
+}
+
+.science-card-heading {
+    color: white;
+    font-size: 35px;
+    font-family: Roboto;
+    padding: 8px;
+}
+
+.science-content-description {
+    margin: 10px;
+}
